@@ -1,5 +1,5 @@
 - Übungsgruppe: 8-B
 - Matrikelnummern:
-    - Nguyen:4930400
-    - Kirichenko:
-    - Kunze: 4931719
+    - Tommy Nguyen:4930400
+    - Andre Kirichenko:
+    - Georg Kunze: 4931719
